@@ -16,10 +16,11 @@
 
 ## Tools I Use:
 
-![PyCharm](https://img.icons8.com/color/48/000000/pycharm.png) ![VSCode](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)  
-![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png) ![GitLab](https://img.icons8.com/color/48/000000/gitlab.png)  
-![Jira](https://img.icons8.com/color/48/000000/jira.png) ![MS Teams](https://img.icons8.com/color/48/000000/microsoft-teams.png)  
-![MongoDB Compass](https://img.icons8.com/color/48/000000/mongodb.png) ![Postman](https://img.icons8.com/dusk/64/000000/postman-api.png)
+<img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm" width="48"/> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode" width="48"/>
+<img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" width="48"/> <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="GitLab" width="48"/>
+<img src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira" width="48"/> <img src="https://img.icons8.com/color/48/000000/microsoft-teams.png" alt="MS Teams" width="48"/>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB Compass" width="48"/> <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="48"/>
+
 
 Cheers,  
 **Muhammad Anas**
