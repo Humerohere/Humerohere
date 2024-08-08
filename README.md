@@ -7,7 +7,7 @@
 | **Category**           | **Technologies**                             |
 |------------------------|----------------------------------------------|
 | **`Languages`**   | ![Python](https://img.icons8.com/color/48/000000/python--v1.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)                           |
-| **`Frameworks`**  | ![Django](https://img.icons8.com/color/48/000000/django.png) ![Flask](https://img.icons8.com/ios-filled/50/000000/flask.png) ![Express](https://img.icons8.com/ios/50/000000/express-js.png)                       |
+| **`Frameworks`**  | ![Django](https://img.icons8.com/color/48/000000/django.png) ![Flask](https://img.icons8.com/ios-filled/50/000000/flask.png) ![Express](https://img.icons8.com/ios/50/000000/express-js.png) ![Fast API](https://img.icons8.com/ios/50/000000/fastapi.png)                      |
 | **`Frontend`**    | ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![React](https://img.icons8.com/color/48/000000/react-native.png)             |
 | **`Databases`**   | ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)                   |
 | **`Devops & Tools`**  | ![Docker](https://img.icons8.com/color/48/000000/docker.png) ![Git](https://img.icons8.com/color/48/000000/git.png)         |
