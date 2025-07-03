@@ -1,4 +1,4 @@
-# 🚀 Software Engineer/Django Developer 🚀
+# 🚀 Software Engineer/Full Stack Developer 🚀
 
 <sub>A committed developer, working full-time, and occasionally adventurer. With over 3 years of experience in Software Development, I mostly focus on creating IoT-based Real-Time web apps. Continuously learning and ready to tackle new challenges, If you're interested in teaming up for innovation, feel free to reach out!</sub>
 
